@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component type="desktop">
+  <id>io.hitvid.Hitvidio</id>
+  <name>Hitvidio</name>
+  <metadata_license>CC0-1.0</metadata_license>
+  <project_license>GPL-3.0</project_license>
+  <developer_name>Hitvidio Team</developer_name>
+  <summary>Non-linear video editor</summary>
+  <summary xml:lang="de_DE">Nicht-lineares Videoschnittprogramm</summary>
+  <summary xml:lang="pt_BR">Editor de vídeo não-linear</summary>
+  <summary xml:lang="es">Editor de video no lineal</summary>
+  <summary xml:lang="it">Editor video non lineare</summary>
+  <summary xml:lang="ru">Нелинейный видеоредактор</summary>
+  <summary xml:lang="uk">Нелінійний відеоредактор</summary>
+  <summary xml:lang="uk_UA">Нелінійний відеоредактор</summary>
+  <summary xml:lang="id">Aplikasi edit video non-linier</summary>
+  <description><p>Hitvidio is a free non-linear video editor aiming to provide a fully-featured alternative to high-end professional video editing software.</p></description>
+  <description xml:lang="de_DE">Hitvidio ist ein freies nicht-lineares Videoschnittprogramm, welches eine vollwertige Alternative zu High-End Videoschnittprogrammen darstellen soll.</description>
+  <description xml:lang="pt_BR"><p>Hitvidio é um editor de vídeo não-linear com o objetivo de fornecer uma alternativa completa para softwares profissionais de edição de vídeo.</p></description>
+  <description xml:lang="es"><p>Hitvidio es un editor de video no lineal libre que apunta a brindar una alternativa completa al software de edición de video profesional.</p></description>
+  <description xml:lang="it"><p>Hitvidio è un programma di montaggio video che mira a fornire una alternativa di alta qualità ai software professionali</p></description>
+  <description xml:lang="ru"><p>Hitvidio — свободный нелинейный видеоредактор, задуманный как полноценная замена закрытым коммерческим продуктам.</p></description>
+  <description xml:lang="uk"><p>Hitvidio — вільний нелінійний відеоредактор, задуманий як повноцінна заміна закритим комерційним продуктам.</p></description>
+  <description xml:lang="uk_UA"><p>Hitvidio — вільний нелінійний відеоредактор, задуманий як повноцінна заміна закритим комерційним продуктам.</p></description>
+  <description xml:lang="id"><p>Hitvidio adalah aplikasi edit video bersifat non-linier yang bebas dan gratis, bertujuan untuk memberikan alternatif yang lengkap untuk aplikasi edit video profesional.</p></description>
+  <url type="homepage">https://www.hitvid.io</url>
+  <content_rating type="oars-1.1" />
+  <releases>
+    <release version="20191223" date="2019-12-23"></release>
+    <release version="20191130" date="2019-11-30"></release>
+  </releases>
+</component>

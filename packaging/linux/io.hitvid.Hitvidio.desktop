@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Hitvidio
+Comment=Professional non-linear video editor
+Comment[it]=Programma di montaggio video professionale open-source
+Comment[id]=Aplikasi edit video yang non-linier, profesional serta sumbernya terbuka.
+Exec=hitvidio-editor
+Icon=io.hitvid.Hitvidio
+Terminal=false
+Type=Application
+Categories=AudioVideo;Recorder;
+MimeType=application/vnd.hitvidio-project;
+StartupNotify=true
